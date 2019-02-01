@@ -1,2 +1,2 @@
 # Personal
-Personal work
+Repository containing some examples of personal work
