@@ -33,7 +33,7 @@ It has also been assumed that a plant has the following properties and attribute
 
 ```
 G =  c1 * water_growth_rate * consumed_water + 
-	 c2 * light_growth_rate * used_light
+	 c2 * light_growth_rate * used_light +
 	 c3 * nutrients_growth_rate * consumed_nutrients
 
 ```
