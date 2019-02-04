@@ -23,7 +23,7 @@ At each round (time period) a player will have the possibility to perform some a
 It has also been assumed that a plant has the following properties and attributes:
 
 - a plant has `consumption rates` of water (w), light (l) and nutrients (n) depending of it's size
-- meaning that it has a `therical need` in water, light and nutrients
+- meaning that it has a `theorical need` in water, light and nutrients
 - At each time period a player by increasing or decreasing each of the ressources (w,l,n) will `make available` a certain volume of water, quantity of nutrients and light for the plant to consume over a single time period
 - a plant has `boundaries of mininmal and maximal` water, light and nutrients it needs to survive over a time period (it dies otherwise)
 - at the begining of each time period the `available ressources are updated` based on the plant consumption (w and n only) over the previous period of time 
